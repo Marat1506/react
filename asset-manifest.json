@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.60e38a93.css",
+    "main.js": "/react/static/js/main.0f588935.js",
+    "static/media/afisha.png": "/react/static/media/afisha.22e6e0c14b6eadbca46e.png",
+    "index.html": "/react/index.html",
+    "main.60e38a93.css.map": "/react/static/css/main.60e38a93.css.map",
+    "main.0f588935.js.map": "/react/static/js/main.0f588935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e38a93.css",
+    "static/js/main.0f588935.js"
+  ]
+}
